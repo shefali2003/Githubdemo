@@ -1,0 +1,77 @@
+  205  git --version
+  206  git init
+  207  git init
+  208  git status
+  209  git init
+  210  git status
+  211  git add index.html
+  212  git status
+  213  git rm --cached index.html
+  214  git status
+  215  git add index.html
+  216  git status
+  217  git status
+  218  git diff
+  219  git rm --cached index.html
+  220  git rm --cached index.html -f
+  221  git status
+  222  git add *
+  223  git status
+  224  git rm --cached *
+  225  git rm --cached * -r
+  226  git add -A
+  227  git status
+  228  git commit -m "Initial version 1.0"
+  229  git status
+  230  git add -A
+  231  git status
+  232  git commit -m "Initial version 1.0"
+  233  git log
+  234  git diff
+  235  git status
+  236  git diff
+  237  git add index *
+  238  git add index*
+  239  git commit
+  240  git init
+  241  git log
+  242  git diff
+  243  git add index*
+  244  git status
+  245  git diff 394349336e712cccf34d3853625270de2cc5abae
+  246  git diff --staged
+  247  git add index*
+  248  git show
+  249  git config --list
+  250  git config --global user.name "Shefali Jain"
+  251  git config --list
+  252  git ls-files
+  253  git status
+  254  git add .
+  255  git commit -m "Initial version 2.0"
+  256  git log
+  257  git reset  74e8c9d8440d60c22d6a54b78e3a7358a34f4560
+  258  git status
+  259  git log
+  260  git reset  74e8c9d8440d60c22d6a54b78e3a7358a34f4560
+  261  git reset
+  262  git reset 394349336e712cccf34d3853625270de2cc5abae --hard
+  263  git log
+  264  git staus
+  265  git status
+  266  git log
+  267  history
+  268  git remote add origin https://github.com/shefali2003/githubdemo.git
+  269  git remote -v
+  270  git push -u origin main
+  271  git remote add origin https://github.com/shefali2003/Githubdemo.git
+  272  git remote add origin1 https://github.com/shefali2003/Githubdemo.git
+  273  git push -u origin main
+  274  git push -u origin1 main
+  275  git remote -v
+  276  git push -u origin1 main
+  277  git push origin1 main
+  278  git remote add org https://github.com/shefali2003/Githubdemo.git
+  279  git push -u org main
+  280  git clone
+  281  history
