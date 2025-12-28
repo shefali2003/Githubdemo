@@ -30,7 +30,6 @@
   234  git diff
   235  git status
   236  git diff
-  237  git add index *
   238  git add index*
   239  git commit
   240  git init
